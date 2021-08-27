@@ -1,5 +1,5 @@
-multiplicand_number=int(input("Enter the number of range :"))
-multiplier_number = int(input("Enter the number multplying number :"))
+multiplicand_number=int(input("Enter the Multiplicand Number :"))
+multiplier_number = int(input("Enter the Multiplicand Number :"))
 
 def multiplication_table(multplicand_number,multiplier_number):
    for i in range(1,multiplicand_number+1) :
